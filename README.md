@@ -11,7 +11,7 @@ It also introduces the concept of dual tunneling—using both a virtual machine 
 
 ## Environments and Technologies Used
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Proton VPN (Virtual Private Network)
+- <a href="https://portal.azure.com">Microsoft Azure (Virtual Machines/Compute)
+- <a href="https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c"> Remote Desktop 
+- <a href="https://protonvpn.com/?srsltid=AfmBOoqUOS9Uj_d1yaxiPwv5WvtT5detrlxmfYIXiuNGx8E1rA6pyjDk">Proton VPN Free Version (Virtual Private Network)
 - <a href="https://whatismyipaddress.com/">Whatismyipadress
