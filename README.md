@@ -1,3 +1,17 @@
-# VPN-in-Azure![image](https://github.com/user-attachments/assets/f41f5216-da2d-431e-9aae-f1d73c330187)
+<p align="center">
+  <a href="https://imgur.com/a/cbc7MMA">
+    <img src="https://github.com/user-attachments/assets/48fef006-cc54-40b2-9102-04f03d0a200e" alt="VPN Lab Screenshot" width="200"/>
+  </a>
+</p>
 
+## VPN-inside-Azure💻
 This lab demonstrates how VPNs can alter perceived geolocation and mask public IP addresses by deploying and interacting with a Windows 10 Virtual Machine in Microsoft Azure. The objective is to understand how VPNs route internet traffic through remote servers and how this affects internet behavior and content localization.
+
+It also introduces the concept of dual tunneling—using both a virtual machine and a VPN—which adds an extra layer of privacy and complexity. This setup makes it more difficult to trace the user's actual location or IP address, reinforcing secure browsing and identity protection for educational purposes.
+
+## Environments and Technologies Used
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Proton VPN (Virtual Private Network)
+- <a href="https://whatismyipaddress.com/">Whatismyipadress
