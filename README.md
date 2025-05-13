@@ -15,3 +15,18 @@ It also introduces the concept of dual tunneling—using both a virtual machine 
 - <a href="https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c"> Remote Desktop 
 - <a href="https://protonvpn.com/?srsltid=AfmBOoqUOS9Uj_d1yaxiPwv5WvtT5detrlxmfYIXiuNGx8E1rA6pyjDk">Proton VPN Free Version (Virtual Private Network)
 - <a href="https://whatismyipaddress.com/">Whatismyipadress
+
+## Opertaing Systems Used 
+
+- Windows 10 (21H2)
+
+## Overview of Deployment and Phases
+
+- Phase 1
+- Phase 2
+- Phase 3
+- Phase 4
+- Phase 5
+- Phase 6
+
+  ## Deployment and Phases
