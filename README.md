@@ -34,6 +34,7 @@ It also introduces the concept of dual tunneling—using both a virtual machine 
 ## Phase 1
 
 During this phase (Phase 1), use [WhatIsMyIPAddress](https://whatismyipaddress.com/) to identify your current IP address. This will help you compare it later when connected to a VPN. It's also a good idea to write it down for reference. I would demonstrate myself but, I wouldn't want to accidentally leak my info to anyone.
+
 ## Phase 2
 
-
+During Phase 2, create a VPN account using [ProtonVPN](https://protonvpn.com/) before setting up your virtual machine. Be sure to use the free version of ProtonVPN. Also, write down your username and password so you can easily sign in once you're inside the virtual machine.
