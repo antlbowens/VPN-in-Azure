@@ -33,8 +33,15 @@ It also introduces the concept of dual tunneling—using both a virtual machine 
 
 ## Phase 1
 
-During this phase (Phase 1), use [WhatIsMyIPAddress](https://whatismyipaddress.com/) to identify your current IP address. This will help you compare it later when connected to a VPN. It's also a good idea to write it down for reference. I would demonstrate myself but, I wouldn't want to accidentally leak my info to anyone.
+Use [WhatIsMyIPAddress](https://whatismyipaddress.com/) to identify your current IP address. This will help you compare it later when connected to a VPN. It's also a good idea to write it down for reference. I would demonstrate myself but, I wouldn't want to accidentally leak my info to anyone.
 
 ## Phase 2
 
-During Phase 2, create a VPN account using [ProtonVPN](https://protonvpn.com/) before setting up your virtual machine. Be sure to use the free version of ProtonVPN. Also, write down your username and password so you can easily sign in once you're inside the virtual machine.
+create a VPN account using [ProtonVPN](https://protonvpn.com/) before setting up your virtual machine. Be sure to use the free version of ProtonVPN. Also, write down your username and password so you can easily sign in once you're inside the virtual machine.
+
+## Phase 3
+
+Create a virtual machine and resource group in [Azure](https://portal.azure.com). You can name the VM and resource group whatever you like. Make sure to select Windows 10 Pro (22H2) as the operating system, and under the Size section, choose a configuration with 2 vCPUs and at least 8 GiB of RAM. Your VM settings should match or closely resemble mine.
+![image](https://github.com/user-attachments/assets/c14be7a8-017e-4e8a-8932-bb618f01f3ce)
+![image](https://github.com/user-attachments/assets/dee85fee-0480-484f-bf96-97b2ce626d1d)
+
