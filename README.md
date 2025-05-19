@@ -18,7 +18,7 @@ It also introduces the concept of dual tunneling—using both a virtual machine 
 
 # Operating Systems Used 
 
-- Windows 10 (21H2)
+- Windows 10 Pro (22H2)
 
 # Overview of Deployment and Phases
 
@@ -57,7 +57,7 @@ Once you're inside your virtual machine, open Microsoft Edge and download Proton
 
 ## Phase 6
 
-Open a new browser tab and go to [WhatIsMyIPAddress](https://whatismyipaddress.com/) to verify your new IP address while connected to the VPN on your virtual machine. You might see an IP from a different country—for example, mine showed a U.S. location (Miami) even though I'm in South Carolina. If you’re routed through another country, try visiting websites like Google or Disney—you might notice the language or content changes based on your virtual location, which is pretty interesting!ng.
+Open a new browser tab and go to [WhatIsMyIPAddress](https://whatismyipaddress.com/) to verify your new IP address while connected to the VPN on your virtual machine. You might see an IP from a different country—for example, mine showed a U.S. location (Miami) even though I'm in South Carolina. If you’re routed through another country, try visiting websites like Google or Disney—you might notice the language or content changes based on your virtual location, which is pretty interesting.
 ![Screenshot 2025-05-18 200530](https://github.com/user-attachments/assets/d7e08c16-772c-4dd4-ba02-381821636e32)
 
 
