@@ -45,3 +45,20 @@ Create a virtual machine and resource group in [Azure](https://portal.azure.com)
 ![image](https://github.com/user-attachments/assets/c14be7a8-017e-4e8a-8932-bb618f01f3ce)
 ![image](https://github.com/user-attachments/assets/dee85fee-0480-484f-bf96-97b2ce626d1d)
 
+## Phase 4
+
+Connect to your VM using RDP (Remote Desktop Protocol). Open the Remote Desktop app by searching for it in the Windows search bar. When connecting, make sure to enter the public IP address of your virtual machine. Also, have your VM username and password saved in Notepad or written down, so you can log in without issues. The underlined red should go into the portion that is underlined green, click connect and boom your there. Also a pop up may come up just select yes and never show again.
+![Screenshot 2025-05-18 194848](https://github.com/user-attachments/assets/8cc9cba3-bc1d-47eb-8874-efb795832db5)
+
+## Phase 5
+
+Once you're inside your virtual machine, open Microsoft Edge and download ProtonVPN. After installing it, log in to your account and connect to a server. The specific server location may vary—for example, I was assigned a U.S. server, but yours might be different. Below is an example of what the ProtonVPN app should look like once connected.
+![Screenshot 2025-05-18 200505](https://github.com/user-attachments/assets/cb90b62d-77d7-4574-a5b5-65b8f2f2f8be)
+
+## Phase 6
+
+Open a new browser tab and go to [WhatIsMyIPAddress](https://whatismyipaddress.com/) to verify your new IP address while connected to the VPN on your virtual machine. You might see an IP from a different country—for example, mine showed a U.S. location (Miami) even though I'm in South Carolina. If you’re routed through another country, try visiting websites like Google or Disney—you might notice the language or content changes based on your virtual location, which is pretty interesting!ng.
+![Screenshot 2025-05-18 200530](https://github.com/user-attachments/assets/d7e08c16-772c-4dd4-ba02-381821636e32)
+
+
+
