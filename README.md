@@ -60,5 +60,23 @@ Once you're inside your virtual machine, open Microsoft Edge and download Proton
 Open a new browser tab and go to [WhatIsMyIPAddress](https://whatismyipaddress.com/) to verify your new IP address while connected to the VPN on your virtual machine. You might see an IP from a different country—for example, mine showed a U.S. location (Miami) even though I'm in South Carolina. If you’re routed through another country, try visiting websites like Google or Disney—you might notice the language or content changes based on your virtual location, which is pretty interesting.
 ![Screenshot 2025-05-18 200530](https://github.com/user-attachments/assets/d7e08c16-772c-4dd4-ba02-381821636e32)
 
+## Phase 7
+
+I wanted to include an image showing the two-way encrypted tunnel created by a VPN. This tunnel makes it much harder for anyone to track your activity or access your private data—whether it's personal browsing at home or sensitive company traffic. The VPN works by encrypting all incoming and outgoing data, providing a secure connection even on public or untrusted networks.
+
+This image helps illustrate what I’m describing. I'm a visual learner myself, so I find it helpful to see how things work, and I know others might appreciate that too!
+![Screenshot 2025-05-18 202115](https://github.com/user-attachments/assets/d39147f2-46ff-493b-87f7-f9cf3a1cb1aa)
+
+## Phase 8 (The Last Phase)
+
+Once you're finished using your virtual machine, disconnect from it and go back to the Azure portal. From there, delete the entire resource group you created—this will automatically remove the VM and any related resources under it.
+
+If you’d like to continue experimenting with the VM, you can skip this step. I just like to point it out so your VM doesn’t quietly rack up charges over time!
+![Screenshot 2025-05-18 202741](https://github.com/user-attachments/assets/56c8f474-b115-4359-ae88-aa32bb51a230)
+
+
+
+
+
 
 
